@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of Parliament: shewing how probably the credit of the nation may be speedily raised And not only the publick debts made good without present money, but render'd serviceable to the publick, and a means to free others as well as the creditors from the difficulties that the deficiencies of funds, and scarcity of coin have occasioned.</title>
+            <author>Houghton, Thomas, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44601</idno>
+            <idno type="STC">Wing H2930</idno>
+            <idno type="STC">ESTC R216943</idno>
+            <idno type="EEBO-CITATION">99828656</idno>
+            <idno type="PROQUEST">99828656</idno>
+            <idno type="VID">33087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1966:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of Parliament: shewing how probably the credit of the nation may be speedily raised And not only the publick debts made good without present money, but render'd serviceable to the publick, and a means to free others as well as the creditors from the difficulties that the deficiencies of funds, and scarcity of coin have occasioned.</title>
+                  <author>Houghton, Thomas, Gent.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Cockerill, at the Three Legs in the Poultry,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.H. [i.e. Thomas Houghton].</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Includes an advertisement on verso of last leaf.</note>
+                  <note>Reproduction of the original in the Hertford College Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debts, Public --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:33087:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>A LETTER TO A <hi>Member of Parliament:</hi> SHEWING How probably the Credit of the Nation may be ſpeedily Raiſed; And not only the Publick Debts made good without preſent Money, but render'd ſerviceable to the Publick, and a means to free others as well as the Creditors from the Difficulties that the Deficiencies of Funds, and Scarcity of Coin have occaſioned.</head>
+            <p>THE way I propoſed to encourage and ha<g ref="char:EOLhyphen"/>ſten Subſcriptions of Tallies, <hi>&amp;c.</hi> To enlarge the Bank of <hi>England,</hi> and make it ſerviceable to the Publick in Trade and otherwiſe, and more advantageous to the Proprietors, as I told you, was,</p>
+            <pb n="2" facs="tcp:33087:2"/>
+            <!-- PDF PAGE 10 -->
+            <p>By the New Eſtabliſhment of the Bank ſo enlarged, to let every one have Bank Stock-bills for his whole Stock; entitling him, his Heirs, Executors and Aſ<g ref="char:EOLhyphen"/>ſigns thereunto, with the Dividends of the Principal, the Intereſt, and other Profits that may become due and payable thereupon.</p>
+            <p>The ſaid Bills to be aſſignable before two Witneſſes, whereby they will be as Uſeful in Trade as Bank-Notes, or as Money, according to the Value of Bank Stock, which will be as eaſily known, as the Rates of Fo<g ref="char:EOLhyphen"/>reign Exchanges, by which ſo much is Negotiated Weekly.</p>
+            <p>And on ſuch Bills, with the Security of the Pro<g ref="char:EOLhyphen"/>prietor, may Money be taken up, as upon Bills of Exchange, by Endorſments, for a Month, Two, or Three; and for longer time, with more Privacy, and leſs Charge and Trouble, than upon a Real Eſtate, up<g ref="char:EOLhyphen"/>on any Occaſion, or Proſpect of Advantage: So that though they have a growing Intereſt on them, they will be almoſt as ſo much Money always at Com<g ref="char:EOLhyphen"/>mand; the Conveniences whereof I need not further inſiſt on.</p>
+            <p>And theſe Bills being ſo eaſily and ſafely nego<g ref="char:EOLhyphen"/>tiated, without Charge or Attendance, either at Buy<g ref="char:EOLhyphen"/>ing or Selling Bank-Stock, or expoſing the Tranſ<g ref="char:EOLhyphen"/>action to the Notice or Cenſure of others, will be ſo
+<pb n="3" facs="tcp:33087:2"/>
+               <!-- PDF PAGE 10 -->commodious and agreeable to the Humour of Trade, and Traders, that doubtleſs many will be induced there<g ref="char:EOLhyphen"/>by to come into this Enlarging Bank, that other<g ref="char:EOLhyphen"/>wiſe would not; for that they can immediately, or unobſerved, ſell out again, all, or what they pleaſe; or borrow upon the Bills, or pay Debts with them.</p>
+            <p>And though, I cannot ſay, the ſo much fallen Stock, will by this Method, become preſently, of like value with ſo much Mill'd Money, yet doubt I not but ſuch Bank-Stock Bills will immedi<g ref="char:EOLhyphen"/>ately be more worth than the Stock, Tallies, and Notes, by which they were purchaſed, and that it will be daily riſing till they come to an equal value with Legal Coin: And mean while ſerving ſo many ways, as ſuggeſted, I conceive it will be obvious to thoſe that underſtand the Methods of Trade, and prefer the Publick before Private Intereſt, that the liquidating the Bank-Stock by this propoſed Method will be of great uſe and ſervice to the Kingdom at this Juncture.</p>
+            <p>But two ſorts of Men will be againſt this, or any thing that tends to extricate us out of the preſent Diffi<g ref="char:EOLhyphen"/>culties through the want of Credit, and ſeeming want of Coin in the Kingdom; the notion whereof is impro<g ref="char:EOLhyphen"/>ved to make it ſo really to the Publick, and many parti<g ref="char:EOLhyphen"/>cular Perſons: <hi>viz.</hi> by the Enemies of the Government, and the Enemies of Mankind; thoſe <hi>Canibals</hi> I mean,
+<pb n="4" facs="tcp:33087:3"/>
+               <!-- PDF PAGE 11 -->that by their Extravagant Extortions devour men alive; of which kind never before were ſuch Inſtances in <hi>England,</hi> as I have lately heard from Perſons of their own knowledge. One of which was of 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> asked, and 8 <abbr>
+                  <hi>l.</hi>
+               </abbr> inſiſted upon, for diſcompt of a Fo<g ref="char:EOLhyphen"/>reign Bill, which afterwards was done for 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> by another; nay was offered for 14 <abbr>
+                  <hi>s.</hi>
+               </abbr> the bare Intereſt; and tho I know others that lately have refuſed to take more than Legal Intereſt for Mill'd Money, yet I am credibly informed, that above five times the In<g ref="char:EOLhyphen"/>tereſt is commonly given for Money on like occa<g ref="char:EOLhyphen"/>ſions; which Exorbitances, if not prevented by one way or other, ſuch Extortioners will prove worſe Enemies to the King, and the Kingdom, than the <hi>Jacobites</hi> are like to be: And therefore I hope the Richeſt and Greateſt monied Men will not be thought the fitteſt to conſult of ways to encreaſe the Stock of Coin and Credit of the Kingdom; nothing being more certain, than that the greater the Stock of Coin and Credit, the greater will be the Profit of the Na<g ref="char:EOLhyphen"/>tion; and the leſs the Stock, the more, in pro<g ref="char:EOLhyphen"/>portion, will be the Profit to the Perſons, that have it.</p>
+            <p>The danger of forging theſe Bills, will by Nume<g ref="char:EOLhyphen"/>rical Diſtinctions, and a Methodical Courſe of paying the Intereſt and Dividends, appear ſo much leſs than the Bank is ſubject to by their preſent Notes and Bills, that it will not be conſiderable, nor more than that of Tallies.</p>
+            <pb n="5" facs="tcp:33087:3"/>
+            <!-- PDF PAGE 11 -->
+            <p>Nor will the Choice of Directors, or the Qualifica<g ref="char:EOLhyphen"/>tion of the Electors, be Difficulties in this way of Eſta<g ref="char:EOLhyphen"/>bliſhment.</p>
+            <p>And each Bank-Stock-Bill will be ſubjected to the Charges and Loſſes that may happen, all Debts being to be paid before the laſt of the Stock be paid off.</p>
+            <p>But I have yet a further Propoſal, which I conceive will moſt effectually and ſpeedily accompliſh this Conjuction and Coalleſcene of Funds, and Inlarge<g ref="char:EOLhyphen"/>ment of the Bank, and render the whole Stock more uſeful to the Publick, and private Perſons. And hum<g ref="char:EOLhyphen"/>bly preſume it will be conſonant to Reaſon, Prudence, and Juſtice, and to the Honour, and for the Intereſt of the Kingdom, and tend as an Act of Righteouſneſs virtually to exalt them, and actually do it, by raiſing the Publick Credit; and more effectually tending, to leſſen (if not wholly to extricate us out of) the mentioned Dif<g ref="char:EOLhyphen"/>ficulties; and without which, I doubt it will be very hard for the Government by Loans to ſupply the early occaſions of it, whilſt ſuch Extortions are practiſed upon private Perſons.</p>
+            <p>That the Honour and Credit of the Publick is ſunk with the value of the Publick Debts, cannot be deni<g ref="char:EOLhyphen"/>ed; and that the Cauſe hath been the Deficiency of the Funds, on which, and the Honour and Juſtice of the Government (as their Security), the Money was lent, or
+<pb n="6" facs="tcp:33087:4"/>
+               <!-- PDF PAGE 12 -->the Goods ſold. That it is incumbent therefore on the Government, in Reaſon and Juſtice ſo effectually to ſupply thoſe Deficiencies, that the Lenders may be no Loſers, and the Debts be as good to them, as if the deſigned Funds had been ſufficient to have paid them in due time. And that by ſo doing, the Pub<g ref="char:EOLhyphen"/>lick Credit would ſoon have recovered, ſo as to have raiſed Money again on like occaſions, is little to be doubted.</p>
+            <p>And ſince it's thought impracticable at this Jun<g ref="char:EOLhyphen"/>cture ſo ſuddenly to raiſe what is requiſite for thoſe and other Occaſions, I propoſe this way, which with little Charge to the Government, more than deſigned upon the Enlargement of the Bank, will I preſume do Juſtice to thoſe Creditors of the Publick, and make all their Debts preſently as good as Legal Money, and (with the Plate-Bill, of ſo much neceſſity at this time) ſoon rectify the Diſorders for want of Coyn and Credit.</p>
+            <p>And is, By the Eſtabliſhment of the enlarged Bank in the manner propoſed, and by making ſuch Bank-Stock-Bills legal Payment in all Caſes in <hi>England,</hi> ex<g ref="char:EOLhyphen"/>cept Foreign Bills; or with a fourth, or a third in Money, as upon thorough conſideration ſhall be thought expedient.</p>
+            <p>Which though at firſt may be thought hard, and looked upon as a force upon Mankind; yet, I believe,
+<pb n="7" facs="tcp:33087:4"/>
+               <!-- PDF PAGE 12 -->e're ſix Months come about, ſuch Bills (ſuppoſing the Funds indubitable) will be deſired rather than Money.</p>
+            <p>And this will not only be of preſent Service to the Goverment: But the diſperſing and dividing theſe Bills, will unite the hearts of ſo many the more to ſup<g ref="char:EOLhyphen"/>port it from time to time.</p>
+            <p>And though it be without Preſident, yet if it be conſidered that the occaſion, and need thereof, is ſo too, and that theſe are already Publick Debts, which ought to be made good, and in the ordinary way cannot now be done, ſome extraordinary way of do<g ref="char:EOLhyphen"/>ing it may be allowed as neceſſary.</p>
+            <p>And if it appear ſo to you, and that you think this a proper way, I hope you will pleaſe to promote it for the Publick Good, which is all that I aim at in recom<g ref="char:EOLhyphen"/>mending it. And I am almoſt as much of the Opinion of the Neceſſity of ſome ſuch Courſe now, with reſpect to the Credit of the Nation, as I was at the beginning of the laſt Seſſions, of a Supply of Coyn from the Wrought Plate, when the Clipt Money was called in. Which if we had then had, our Difficulties had not been as they have been, and are, and will, I fear, till that Bill paſs. What I have more to ſay, I ſhall refer till I ſee you, mean while I preſume all Objections to this may be anſwered: And am yours,</p>
+            <closer>
+               <signed>T. H.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Cockerill,</hi> at the <hi>Three Legs</hi> in the <hi>Poultry.</hi> 1697.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:33087:5"/>
+            <!-- PDF PAGE 13 -->
+            <head>ADVERTISEMENT.</head>
+            <p>AN Eſſay upon PROJECTS. <hi>Printed for</hi> Thomas Cockerill.</p>
+            <pb facs="tcp:33087:5"/>
+            <!-- PDF PAGE 13 -->
+         </div>
+      </back>
+   </text>
+</TEI>
